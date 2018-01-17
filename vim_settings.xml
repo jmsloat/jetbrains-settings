@@ -302,11 +302,10 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1513891700500">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1516198023089">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
         <mark key="'" line="31" column="39" />
@@ -473,7 +472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>lightgray</text>
@@ -485,31 +484,31 @@
         <text encoding="base64">ICAgICAgICAgIHtuYW1lOiAnUGxheWVyIDEnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxkaXY+CiAgICAgICAgICAgICAgICAgIFByaWNlCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9sZXZlbD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxldmVsPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IDxkaXY+CiAgICAgICAgICAgICAgICAgIFByaWNlCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9sZXZlbD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxldmVsPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU29tZSBwbGF5ZXIgc3R1ZmYgaGVyZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2xldmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU29tZSBwbGF5ZXIgc3R1ZmYgaGVyZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGV2ZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xldmVsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
