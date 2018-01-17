@@ -1,0 +1,597 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/jasmine/tests/fixtures/radio_button.html" timestamp="1486412595166">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="15" column="72" />
+      </file>
+      <file name="C:/dev/vueapp/src/App.vue" timestamp="1513200887894">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="C:/dev/vuetest/index.html" timestamp="1513108901744">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="C:/dev/vue-todo/src/App.vue" timestamp="1513275992551">
+        <mark key="'" line="33" column="5" />
+        <mark key="z" line="33" column="4" />
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/lawsuits.ts" timestamp="1499955052184">
+        <mark key="'" line="13" column="39" />
+        <mark key="z" line="13" column="38" />
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/mortgage.ts" timestamp="1499955076052">
+        <mark key="'" line="55" column="39" />
+        <mark key="z" line="55" column="38" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/TitleOrder/Index.cshtml" timestamp="1484321407302">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="C:/dev/vue-bulma/index.html" timestamp="1513631146879">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="6" column="102" />
+        <mark key="^" line="6" column="102" />
+        <mark key="." line="6" column="102" />
+      </file>
+      <file name="C:/dev/vue-strap/src/router/index.js" timestamp="1513286743663">
+        <mark key="'" line="6" column="21" />
+        <mark key="z" line="6" column="14" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/editRequest.ts" timestamp="1495714814714">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/bankruptcyRequest.ts" timestamp="1495714820244">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/main.js" timestamp="1513631106006">
+        <mark key="'" line="30" column="2" />
+        <mark key="z" line="30" column="1" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Shared/_RequestHeader.cshtml" timestamp="1486146711873">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="C:/dev/vue-pack/src/App.vue" timestamp="1513285593829">
+        <mark key="'" line="8" column="46" />
+        <mark key="z" line="8" column="43" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" timestamp="1495714790599">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="C:/dev/vue-strap/src/App.vue" timestamp="1513286459238">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/jasmine/all.jstd" timestamp="1488207995413">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="C:/dev/vuetest/app/app.js" timestamp="1498769995278">
+        <mark key="'" line="5" column="2" />
+        <mark key="z" line="5" column="1" />
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+      </file>
+      <file name="C:/dev/vue-pack/src/components/navbar.vue" timestamp="1513283303900">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Taxes/Create_OH.cshtml" timestamp="1495737872776">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="C:/dev/vue-todo/src/components/todolist.vue" timestamp="1513276965613">
+        <mark key="'" line="22" column="36" />
+        <mark key="z" line="22" column="34" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/miscTitleRequest.ts" timestamp="1495714810301">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+      </file>
+      <file name="C:/dev/vue-bulma/README.md" timestamp="1513690121325">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/divorce.ts" timestamp="1499955019308">
+        <mark key="'" line="17" column="39" />
+        <mark key="z" line="17" column="38" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" timestamp="1500037865202">
+        <mark key="'" line="41" column="10" />
+        <mark key="z" line="41" column="9" />
+        <mark key="[" line="83" column="84" />
+        <mark key="]" line="83" column="83" />
+        <mark key="." line="83" column="83" />
+        <mark key="^" line="83" column="83" />
+      </file>
+      <file name="C:/dev/vue-pack/src/main.js" timestamp="1513283274218">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+      </file>
+      <file name="C:/dev/vue-todo/src/main.js" timestamp="1513274692454">
+        <mark key="'" line="12" column="2" />
+        <mark key="z" line="12" column="1" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/probate.ts" timestamp="1499955092827">
+        <mark key="'" line="11" column="39" />
+        <mark key="z" line="11" column="38" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/deeds.ts" timestamp="1499974507330">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/dev/vue-strap/src/components/Navbar.vue" timestamp="1513286520125">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="1" column="52" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formInitializer.ts" timestamp="1499957941095">
+        <mark key="'" line="35" column="38" />
+        <mark key="z" line="35" column="37" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="36" column="47" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Shared/_VendorOrderMenu.cshtml" timestamp="1487106442877">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/leases.ts" timestamp="1499955058514">
+        <mark key="'" line="11" column="39" />
+        <mark key="z" line="11" column="38" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
+      <file name="C:/dev/vue-todo/src/components/todo.vue" timestamp="1513276777119">
+        <mark key="'" line="68" column="39" />
+        <mark key="z" line="68" column="37" />
+        <mark key="[" line="69" column="7" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="7" />
+        <mark key="^" line="69" column="7" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Divorce/Details.cshtml" timestamp="1487095662412">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="12" />
+        <mark key="^" line="66" column="8" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/App.vue" timestamp="1513716478306">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/miscTitleInfo.ts" timestamp="1499955064435">
+        <mark key="'" line="12" column="39" />
+        <mark key="z" line="12" column="38" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1513717314458">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
+        <mark key="'" line="11" column="39" />
+        <mark key="z" line="11" column="38" />
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/components/MyTeam.vue" timestamp="1513631213431">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/components/PlayerCard.vue" timestamp="1513717676570">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/dev/vue-todo/index.html" timestamp="1513275845242">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/components/Standings.vue" timestamp="1513719147226">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/preliminaryTitleRequest.ts" timestamp="1495714805764">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/reoRequest.ts" timestamp="1495714800521">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1513891700500">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
+        <mark key="'" line="31" column="39" />
+        <mark key="z" line="31" column="38" />
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/judgmentsandliens.ts" timestamp="1499955045033">
+        <mark key="'" line="23" column="39" />
+        <mark key="z" line="23" column="38" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+      </file>
+      <file name="C:/dev/vue-todo/src/components/todo-list.vue" timestamp="1513275915769">
+        <mark key="'" line="12" column="27" />
+        <mark key="z" line="12" column="25" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="15" column="19" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" timestamp="1499955038970">
+        <mark key="'" line="8" column="39" />
+        <mark key="z" line="8" column="38" />
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+      </file>
+      <file name="C:/dev/vueapp/src/components/HelloWorld.vue" timestamp="1513201085637">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+      </file>
+      <file name="C:/dev/vue-pack/webpack.config.js" timestamp="1513285653925">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="47" column="45" />
+        <mark key="^" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Deeds/Create.cshtml" timestamp="1499964993646">
+        <mark key="[" line="23" column="112" />
+        <mark key="]" line="23" column="112" />
+        <mark key="^" line="23" column="117" />
+        <mark key="." line="23" column="112" />
+      </file>
+      <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" timestamp="1499964665901">
+        <mark key="'" line="41" column="15" />
+        <mark key="z" line="19" column="38" />
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="37" column="49" />
+        <mark key="^" line="37" column="49" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="52" column="12" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="168" column="17" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="0" column="15" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
+      <jump line="55" column="32" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
+      <jump line="44" column="42" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
+      <jump line="23" column="25" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="39" column="13" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="63" column="50" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="35" column="29" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="17" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="60" column="26" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="3" column="4" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="5" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="6" column="26" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="11" column="34" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="24" column="25" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="42" column="13" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="56" column="26" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="53" column="12" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
+      <jump line="30" column="40" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/divorce.ts" />
+      <jump line="5" column="28" filename="C:/dev/vuetest/index.html" />
+      <jump line="5" column="2" filename="C:/dev/vuetest/app/app.js" />
+      <jump line="39" column="6" filename="C:/dev/vuetest/index.html" />
+      <jump line="46" column="6" filename="C:/dev/vuetest/index.html" />
+      <jump line="14" column="27" filename="C:/dev/vuetest/index.html" />
+      <jump line="30" column="12" filename="C:/dev/vuetest/index.html" />
+      <jump line="21" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" />
+      <jump line="17" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/deeds.ts" />
+      <jump line="17" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/divorce.ts" />
+      <jump line="11" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" />
+      <jump line="8" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" />
+      <jump line="23" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/judgmentsandliens.ts" />
+      <jump line="13" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/lawsuits.ts" />
+      <jump line="11" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/leases.ts" />
+      <jump line="12" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/miscTitleInfo.ts" />
+      <jump line="55" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/mortgage.ts" />
+      <jump line="11" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/probate.ts" />
+      <jump line="31" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" />
+      <jump line="55" column="14" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="38" column="38" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formInitializer.ts" />
+      <jump line="37" column="24" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="114" column="14" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="115" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="35" column="22" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="88" column="31" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="29" column="37" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="62" column="41" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="72" column="31" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="56" column="12" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="58" column="13" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="59" column="28" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="103" column="47" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="104" column="24" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="107" column="48" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="116" column="20" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="120" column="18" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="124" column="61" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="18" column="35" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="24" column="39" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="36" column="34" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="113" column="42" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="40" column="24" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="42" column="17" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="44" column="24" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="121" column="14" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="122" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="8" column="23" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="16" column="24" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" />
+      <jump line="19" column="23" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" />
+      <jump line="37" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" />
+      <jump line="41" column="15" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/bankruptcy.ts" />
+      <jump line="18" column="47" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/deeds.ts" />
+      <jump line="34" column="4" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="33" column="14" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="41" column="10" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" />
+      <jump line="11" column="8" filename="C:/dev/vueapp/src/components/HelloWorld.vue" />
+      <jump line="12" column="3" filename="C:/dev/vue-todo/src/components/todo.vue" />
+      <jump line="33" column="5" filename="C:/dev/vue-todo/src/App.vue" />
+      <jump line="2" column="21" filename="C:/dev/vue-todo/src/main.js" />
+      <jump line="3" column="23" filename="C:/dev/vue-todo/src/main.js" />
+      <jump line="5" column="32" filename="C:/dev/vue-todo/src/main.js" />
+      <jump line="12" column="2" filename="C:/dev/vue-todo/src/main.js" />
+      <jump line="10" column="27" filename="C:/dev/vue-todo/src/components/todo-list.vue" />
+      <jump line="68" column="39" filename="C:/dev/vue-todo/src/components/todo.vue" />
+      <jump line="21" column="50" filename="C:/dev/vue-todo/src/components/todolist.vue" />
+      <jump line="22" column="36" filename="C:/dev/vue-todo/src/components/todolist.vue" />
+      <jump line="8" column="46" filename="C:/dev/vue-pack/src/App.vue" />
+      <jump line="50" column="15" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="3" column="0" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="7" column="15" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="43" column="2" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="61" column="16" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="74" column="16" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="15" column="21" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="17" column="10" filename="C:/dev/vue-pack/webpack.config.js" />
+      <jump line="7" column="15" filename="C:/dev/vue-strap/src/router/index.js" />
+      <jump line="6" column="21" filename="C:/dev/vue-strap/src/router/index.js" />
+      <jump line="3" column="18" filename="C:/dev/vue-bulma/src/main.js" />
+      <jump line="8" column="1" filename="C:/dev/vue-bulma/src/main.js" />
+      <jump line="12" column="2" filename="C:/dev/vue-bulma/src/main.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>lightgray</text>
+      </register>
+      <register name="/" type="4">
+        <text>loader</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtuYW1lOiAnUGxheWVyIDEnfSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IDxkaXY+CiAgICAgICAgICAgICAgICAgIFByaWNlCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9sZXZlbD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxldmVsPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU29tZSBwbGF5ZXIgc3R1ZmYgaGVyZS4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8L2xldmVsPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8bGV2ZWw+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>loader</last-search>
+      <last-offset />
+      <last-pattern>loader</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>console</entry>
+        <entry encoding="base64">XDxkdXBsaWNhdGVGaWVsZENvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry>hr</entry>
+        <entry encoding="base64">XDxmaWVsZHNldElkXD4=</entry>
+        <entry encoding="base64">XDxzZXRJbmRleGVySW5wdXRcPg==</entry>
+        <entry>index</entry>
+        <entry encoding="base64">XDxncm9jZXJ5TGlzdFw+</entry>
+        <entry encoding="base64">XDxpbml0aWxpYXplVmFsaWRhdGlvblw+</entry>
+        <entry>handler</entry>
+        <entry>validation</entry>
+        <entry>vali</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uRmFpbGVkSGFuZGxlclw+</entry>
+        <entry>initialized</entry>
+        <entry>date</entry>
+        <entry>initializeVali</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplRGF0ZVZhbGlkYXRpb25cPg==</entry>
+        <entry>data</entry>
+        <entry>resolve</entry>
+        <entry>loader</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set ignorecase</entry>
+        <entry>Noh</entry>
+        <entry>q</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
