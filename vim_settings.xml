@@ -273,11 +273,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/PlayerCard.vue" timestamp="1513717676570">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="C:/dev/vue-bulma/src/components/PlayerCard.vue" timestamp="1520541641162">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="20" />
         <mark key="^" line="12" column="36" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="C:/dev/vue-todo/index.html" timestamp="1513275845242">
         <mark key="[" line="13" column="0" />
@@ -302,7 +302,6 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1516737022092" />
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
         <mark key="'" line="31" column="39" />
         <mark key="z" line="31" column="38" />
