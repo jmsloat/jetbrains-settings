@@ -253,11 +253,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1513717314458">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="40" />
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520544626967">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -326,6 +326,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520544572320">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" timestamp="1499955038970">
         <mark key="'" line="8" column="39" />
         <mark key="z" line="8" column="38" />
@@ -341,6 +347,7 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
+      <file name="C:/dev/vue-bulma/src/components/BuySellButton.vue" timestamp="1520543606951" />
       <file name="C:/dev/vue-pack/webpack.config.js" timestamp="1513285653925">
         <mark key="'" line="17" column="10" />
         <mark key="[" line="47" column="45" />
@@ -466,11 +473,11 @@
       <jump line="12" column="2" filename="C:/dev/vue-bulma/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>lightgray</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>loader</text>
@@ -479,31 +486,31 @@
         <text encoding="base64">ICAgICAgICAgIHtuYW1lOiAnUGxheWVyIDEnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkJCWRhc2RmCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDxkaXY+CiAgICAgICAgICAgICAgICAgIFByaWNlCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9sZXZlbD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxldmVsPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IDxkaXY+CiAgICAgICAgICAgICAgICAgIFByaWNlCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU29tZSBwbGF5ZXIgc3R1ZmYgaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9sZXZlbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2xldmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxldmVsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -545,6 +552,12 @@
         <entry>q</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>set tabstop=2</entry>
+        <entry>set softtabstop</entry>
+        <entry>set shiftwidth=2</entry>
+        <entry>set expandtab</entry>
+        <entry>set expandtab=true</entry>
+        <entry>%retab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
