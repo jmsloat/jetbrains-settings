@@ -253,10 +253,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520545769081">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520546663776">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -472,46 +473,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text>loader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtuYW1lOiAnUGxheWVyIDEnfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD5OYW1lPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3RhYmxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWRhc2RmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJPgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>set surround</text>
       </register>
     </registers>
     <search>
@@ -545,21 +546,26 @@
         <entry>loader</entry>
       </history-search>
       <history-cmd>
-        <entry>set ignorecase</entry>
         <entry>Noh</entry>
         <entry>q</entry>
         <entry>noh</entry>
         <entry>w</entry>
         <entry>set tabstop=2</entry>
         <entry>set softtabstop</entry>
-        <entry>set shiftwidth=2</entry>
-        <entry>set expandtab=true</entry>
         <entry>%retab</entry>
         <entry>set shiftwidth=4</entry>
-        <entry>set expandtab</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>expandtab</entry>
         <entry>echo expandtab</entry>
+        <entry>set smarttab</entry>
+        <entry>set shiftwidth</entry>
+        <entry>set &quot;expandtab&quot;</entry>
+        <entry>set expandtab=true</entry>
+        <entry>set nosurround</entry>
+        <entry>set surround</entry>
+        <entry>set expandtab</entry>
+        <entry>set softtab</entry>
+        <entry>set shiftwidth=2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
