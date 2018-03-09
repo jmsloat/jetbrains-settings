@@ -253,11 +253,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520546663776">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="19" />
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520602201826">
+        <mark key="[" line="44" column="66" />
+        <mark key="]" line="44" column="66" />
+        <mark key="." line="44" column="66" />
+        <mark key="^" line="44" column="36" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -326,11 +326,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520545137531">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520602025796">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="^" line="4" column="25" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" timestamp="1499955038970">
         <mark key="'" line="8" column="39" />
@@ -347,6 +348,7 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
+      <file name="C:/dev/vue-bulma/src/components/BuySellButton.vue" timestamp="1520601881930" />
       <file name="C:/dev/vue-pack/webpack.config.js" timestamp="1513285653925">
         <mark key="'" line="17" column="10" />
         <mark key="[" line="47" column="45" />
@@ -370,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
       <jump line="168" column="17" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
       <jump line="0" column="15" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
       <jump line="55" column="32" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
@@ -470,61 +471,61 @@
       <jump line="3" column="18" filename="C:/dev/vue-bulma/src/main.js" />
       <jump line="8" column="1" filename="C:/dev/vue-bulma/src/main.js" />
       <jump line="12" column="2" filename="C:/dev/vue-bulma/src/main.js" />
+      <jump line="2" column="12" filename="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>loader</text>
+        <text encoding="base64">XDxwbGF5ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD5OYW1lPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIubmFtZX19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+cGxheWVyLjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICBOb3QgdXNpbmcgQ2FyZHMhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search>loader</last-search>
+      <last-search encoding="base64">XDxwbGF5ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>loader</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF5ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry encoding="base64">XDxkdXBsaWNhdGVGaWVsZENvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry>hr</entry>
@@ -544,6 +545,7 @@
         <entry>data</entry>
         <entry>resolve</entry>
         <entry>loader</entry>
+        <entry encoding="base64">XDxwbGF5ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Noh</entry>
