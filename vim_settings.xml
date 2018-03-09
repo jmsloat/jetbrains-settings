@@ -253,11 +253,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520602201826">
-        <mark key="[" line="44" column="66" />
-        <mark key="]" line="44" column="66" />
-        <mark key="." line="44" column="66" />
-        <mark key="^" line="44" column="36" />
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520603230004">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -302,6 +302,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1520603417250" />
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
         <mark key="'" line="31" column="39" />
         <mark key="z" line="31" column="38" />
@@ -326,12 +327,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520602025796">
+      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520603246538">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="25" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" timestamp="1499955038970">
         <mark key="'" line="8" column="39" />
@@ -474,44 +475,44 @@
       <jump line="2" column="12" filename="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIucHJpY2V9fTwvdGQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF5ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIubmFtZX19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIucHJpY2V9fTwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD5TaGFyZXM8L3RoPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIuc2hhcmVzfX08L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+cGxheWVyLjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb3QgdXNpbmcgQ2FyZHMhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+cGxheWVyLjwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb3QgdXNpbmcgQ2FyZHMhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
