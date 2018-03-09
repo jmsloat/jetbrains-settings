@@ -50,11 +50,24 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="C:/dev/vue-bulma/index.html" timestamp="1513631146879">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="6" column="102" />
-        <mark key="^" line="6" column="102" />
-        <mark key="." line="6" column="102" />
+      <file name="C:/dev/vue-bulma/.editorconfig" timestamp="1520617328086">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="C:/dev/vue-bulma/index.html" timestamp="1520618808694">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="C:/dev/vue-bulma/webpack.config.js" timestamp="1520616974406">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+        <mark key="." line="44" column="30" />
       </file>
       <file name="C:/dev/vue-strap/src/router/index.js" timestamp="1513286743663">
         <mark key="'" line="6" column="21" />
@@ -76,13 +89,13 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="C:/dev/vue-bulma/src/main.js" timestamp="1513631106006">
+      <file name="C:/dev/vue-bulma/src/main.js" timestamp="1520618814986">
         <mark key="'" line="30" column="2" />
         <mark key="z" line="30" column="1" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="3" />
+        <mark key="[" line="37" column="2" />
+        <mark key="]" line="37" column="2" />
+        <mark key="." line="37" column="2" />
+        <mark key="^" line="37" column="2" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Shared/_RequestHeader.cshtml" timestamp="1486146711873">
         <mark key="[" line="7" column="13" />
@@ -154,6 +167,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="C:/dev/vue-bulma/src/components/StandingsRow.vue" timestamp="1520617335015">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/divorce.ts" timestamp="1499955019308">
         <mark key="'" line="17" column="39" />
         <mark key="z" line="17" column="38" />
@@ -203,11 +222,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="C:/dev/vue-bulma/src/db.js" timestamp="1520611186129">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+      <file name="C:/dev/vue-bulma/src/db.js" timestamp="1520620278738">
+        <mark key="'" line="13" column="30" />
+        <mark key="z" line="13" column="29" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formInitializer.ts" timestamp="1499957941095">
         <mark key="'" line="35" column="38" />
@@ -245,11 +266,11 @@
         <mark key="." line="66" column="12" />
         <mark key="^" line="66" column="8" />
       </file>
-      <file name="C:/dev/vue-bulma/src/App.vue" timestamp="1516910966294">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="21" column="0" />
+      <file name="C:/dev/vue-bulma/src/App.vue" timestamp="1520620025966">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/miscTitleInfo.ts" timestamp="1499955064435">
         <mark key="'" line="12" column="39" />
@@ -259,11 +280,13 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520603230004">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-        <mark key="^" line="15" column="29" />
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520620277174">
+        <mark key="'" line="34" column="23" />
+        <mark key="z" line="34" column="21" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -290,11 +313,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Standings.vue" timestamp="1513719147226">
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="43" column="31" />
+      <file name="C:/dev/vue-bulma/src/components/Standings.vue" timestamp="1520617585206">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/preliminaryTitleRequest.ts" timestamp="1495714805764">
         <mark key="[" line="0" column="38" />
@@ -308,7 +331,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1520603417250" />
+      <file name="C:/dev/vue-bulma/src/components/Navbar.vue" timestamp="1520620027806">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
         <mark key="'" line="31" column="39" />
         <mark key="z" line="31" column="38" />
@@ -333,12 +361,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520603246538">
+      <file name="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" timestamp="1520620028485">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/hoa.ts" timestamp="1499955038970">
         <mark key="'" line="8" column="39" />
@@ -379,13 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="17" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
-      <jump line="0" column="15" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
-      <jump line="55" column="32" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
-      <jump line="44" column="42" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/request.ts" />
-      <jump line="23" column="25" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
-      <jump line="39" column="13" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
-      <jump line="63" column="50" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
       <jump line="35" column="29" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
       <jump line="17" column="16" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
       <jump line="60" column="26" filename="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formgroup.ts" />
@@ -479,62 +500,67 @@
       <jump line="8" column="1" filename="C:/dev/vue-bulma/src/main.js" />
       <jump line="12" column="2" filename="C:/dev/vue-bulma/src/main.js" />
       <jump line="2" column="12" filename="C:/dev/vue-bulma/src/components/PlayerTableRow.vue" />
+      <jump line="13" column="30" filename="C:/dev/vue-bulma/src/db.js" />
+      <jump line="33" column="23" filename="C:/dev/vue-bulma/src/components/Players.vue" />
+      <jump line="33" column="27" filename="C:/dev/vue-bulma/webpack.config.js" />
+      <jump line="75" column="2" filename="C:/dev/vue-bulma/webpack.config.js" />
+      <jump line="41" column="2" filename="C:/dev/vue-bulma/webpack.config.js" />
+      <jump line="1" column="15" filename="C:/dev/vue-bulma/webpack.config.js" />
+      <jump line="6" column="15" filename="C:/dev/vue-bulma/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIucHJpY2V9fTwvdGQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.players,</text>
       </register>
       <register name="-" type="4">
-        <text>Price</text>
+        <text>.players,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5ZXJcPg==</text>
+        <text>standings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIucHJpY2V9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgJ3Z1ZSQnOiAndnVlL2Rpc3QvdnVlLmVzbS5qcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD5TaGFyZXM8L3RoPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+e3twbGF5ZXIuc2hhcmVzfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgIF0sCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHtpZDogMSwgdGllcjogMn0KICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9wbGF5ZXItdGFibGUtcm93Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+cGxheWVyLjwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb3QgdXNpbmcgQ2FyZHMhCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+IFRlYW08L3RoPgogICAgICAgIDx0aD4gTW9uZXk8L3RoPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsYXllci10YWJsZS1yb3cKCiAgICAgICAgICAgICAgICBOb3QgdXNpbmcgY2FyZHMhCiAgICAgICAgICAgIDwvcGxheWVyLXRhYmxlLXJvdz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9IiF1c2VDYXJkcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5ZXJcPg==</last-search>
+      <last-search>standings</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5ZXJcPg==</last-pattern>
+      <last-pattern>standings</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXBsaWNhdGVGaWVsZENvbnRhaW5lclw+</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry>hr</entry>
         <entry encoding="base64">XDxmaWVsZHNldElkXD4=</entry>
         <entry encoding="base64">XDxzZXRJbmRleGVySW5wdXRcPg==</entry>
@@ -550,9 +576,11 @@
         <entry>initializeVali</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplRGF0ZVZhbGlkYXRpb25cPg==</entry>
         <entry>data</entry>
-        <entry>resolve</entry>
         <entry>loader</entry>
         <entry encoding="base64">XDxwbGF5ZXJcPg==</entry>
+        <entry>resolve</entry>
+        <entry>components</entry>
+        <entry>standings</entry>
       </history-search>
       <history-cmd>
         <entry>Noh</entry>
@@ -615,6 +643,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
