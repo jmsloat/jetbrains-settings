@@ -222,13 +222,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="C:/dev/vue-bulma/src/db.js" timestamp="1520620278738">
+      <file name="C:/dev/vue-bulma/src/db.js" timestamp="1520622083447">
         <mark key="'" line="13" column="30" />
         <mark key="z" line="13" column="29" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="12" column="43" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formInitializer.ts" timestamp="1499957941095">
         <mark key="'" line="35" column="38" />
@@ -280,13 +280,13 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520620277174">
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520622276494">
         <mark key="'" line="34" column="23" />
         <mark key="z" line="34" column="21" />
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-        <mark key="." line="44" column="19" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="34" column="12" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/easement.ts" timestamp="1499955027252">
         <mark key="'" line="11" column="39" />
@@ -509,11 +509,11 @@
       <jump line="6" column="15" filename="C:/dev/vue-bulma/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.players,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGIucGxheWVycyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.players,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>standings</text>
@@ -522,31 +522,31 @@
         <text encoding="base64">ICAgICAgJ3Z1ZSQnOiAndnVlL2Rpc3QvdnVlLmVzbS5qcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGIucGxheWVycyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHtpZDogMSwgdGllcjogMn0KICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtpZDogMSwgdGllcjogMiwgbmFtZTogJ3NvbWVuYW1lJ30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGIucGxheWVycyk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9wbGF5ZXItdGFibGUtcm93Pgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLTxwIHYtaWY9InBsYXllcnMubGVuZ3RoID09PSAwIj5OTyBQTEFZRVJTPC9wPi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGg+IFRlYW08L3RoPgogICAgICAgIDx0aD4gTW9uZXk8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgIF0sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHtpZDogMSwgdGllcjogMn0KICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGIK</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
