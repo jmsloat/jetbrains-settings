@@ -214,12 +214,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Team.vue" timestamp="1520631044934">
+      <file name="C:/dev/vue-bulma/src/components/Team.vue" timestamp="1520862792176">
         <mark key="'" line="24" column="28" />
         <mark key="z" line="24" column="25" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="7" column="15" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Views/Shared/_VendorOrderMenu.cshtml" timestamp="1487106442877">
@@ -499,28 +499,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IGZ1bmN0aW9uKCkgewogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4kcm91dGUucGFyYW1zLnRlYW1pZAo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IGZ1bmN0aW9uKCkgewogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4kcm91dGUucGFyYW1zLnRlYW1pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS10ZD4ke3sgcGxheWVyLnByaWNlICogcGxheWVyLnNoYXJlc319PC90ZC0tPgo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS08dGQ+e3twbGF5ZXIuc2hhcmVzfX08L3RkPi0tPgo=</text>
+        <text encoding="base64">ICAgIDwhLS10ZD4ke3sgcGxheWVyLnByaWNlICogcGxheWVyLnNoYXJlc319PC90ZC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHBseSA9IAo=</text>
+        <text encoding="base64">ICAgIDwhLS08dGQ+e3twbGF5ZXIuc2hhcmVzfX08L3RkPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnNfcGxheWVyc1t1c2Vyc19wbGF5ZXJzLmxlbmd0aC0xXS5zaGFyZXMgPSByLgo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHBseSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
