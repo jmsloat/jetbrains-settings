@@ -94,7 +94,7 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="C:/dev/golf-scrape/scorecardParser.js" timestamp="1521230174168">
+      <file name="C:/dev/golf-scrape/scorecardParser.js" timestamp="1521230838735">
         <mark key="'" line="39" column="1" />
         <mark key="z" line="39" column="0" />
         <mark key="[" line="13" column="0" />
@@ -323,16 +323,16 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520627803091">
+      <file name="/Dummy.txt" timestamp="1521230884638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/golf-scrape/scrape.js" timestamp="1521227506815">
+      <file name="C:/dev/golf-scrape/scrape.js" timestamp="1521230886064">
         <mark key="'" line="22" column="23" />
         <mark key="z" line="22" column="21" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/titlerequest/reoRequest.ts" timestamp="1495714800521">
         <mark key="[" line="0" column="25" />
@@ -504,8 +504,8 @@
       <jump line="35" column="1" filename="C:/dev/golf-scrape/scorecardParser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCQoJ3RpdGxlJykudGV4dCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -517,22 +517,22 @@
         <text encoding="base64">ICAnMyc6ICdUcmlwbGUgQm9nZXknLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCQoJ3RpdGxlJykudGV4dCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgKHJlc3VsdCA9PT0gMCkgewogIHJldHVybiAnUGFyJwp9CmVsc2UgaWYgKHJlc3VsdCA9PT0gLTEpIHsKICByZXR1cm4gJ0JpcmRpZSc7Cn0KZWxzZSBpZiAocmVzdWx0ID09PSAtMikgewogIHJldHVybiAnRWFnbGUnOwp9CmVsc2UgaWYgKHJlc3VsdCA9PT0gMSkgewogIHJldHVybiAnQm9nZXknCn0KZWxzZSBpZiAocmVzdWx0ID09PSAyKSB7CiAgcmV0dXJuICdEb3VibGUgQm9nZXknCn0KZWxzZSBpZiAocmVzdWx0ID09PSAzKSB7CiAgcmV0dXJuICdUcmlwbGUgQm9nZXknCn0KZWxzZSB7CiAgcmV0dXJuICc6KCcKfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnMyc6ICdUcmlwbGUgQm9nZXknLAo=</text>
+        <text encoding="base64">aWYgKHJlc3VsdCA9PT0gMCkgewogIHJldHVybiAnUGFyJwp9CmVsc2UgaWYgKHJlc3VsdCA9PT0gLTEpIHsKICByZXR1cm4gJ0JpcmRpZSc7Cn0KZWxzZSBpZiAocmVzdWx0ID09PSAtMikgewogIHJldHVybiAnRWFnbGUnOwp9CmVsc2UgaWYgKHJlc3VsdCA9PT0gMSkgewogIHJldHVybiAnQm9nZXknCn0KZWxzZSBpZiAocmVzdWx0ID09PSAyKSB7CiAgcmV0dXJuICdEb3VibGUgQm9nZXknCn0KZWxzZSBpZiAocmVzdWx0ID09PSAzKSB7CiAgcmV0dXJuICdUcmlwbGUgQm9nZXknCn0KZWxzZSB7CiAgcmV0dXJuICc6KCcKfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnMSc6ICdCb2dleScsCiAgJzInOiAnRG91YmxlIEJvZ2V5JywK</text>
+        <text encoding="base64">ICAnMyc6ICdUcmlwbGUgQm9nZXknLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAnMSc6ICdCb2dleScsCiAgJzInOiAnRG91YmxlIEJvZ2V5JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
