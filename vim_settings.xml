@@ -45,7 +45,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/dev/golfbet-web/tests/unit/HelloWorld.spec.ts" timestamp="1521574527034" />
       <file name="C:/dev/vue-bulma/src/api.js" timestamp="1520878331108">
         <mark key="'" line="58" column="56" />
         <mark key="z" line="58" column="55" />
@@ -99,6 +98,12 @@
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
+      </file>
+      <file name="C:/dev/golfbet-web/.babelrc" timestamp="1521576309145">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="C:/dev/golf-scrape/scorecardParser.js" timestamp="1521230838735">
         <mark key="'" line="39" column="1" />
@@ -192,6 +197,14 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
+      <file name="C:/dev/golfbet-web/src/main.js" timestamp="1521576635192">
+        <mark key="'" line="9" column="21" />
+        <mark key="z" line="9" column="19" />
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/baseVendorForm.ts" timestamp="1500037865202">
         <mark key="'" line="41" column="10" />
         <mark key="z" line="41" column="9" />
@@ -250,7 +263,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="C:/dev/golfbet-web/package.json" timestamp="1521574531408" />
+      <file name="C:/dev/golfbet-web/package.json" timestamp="1521576373569">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/formInitializer.ts" timestamp="1499957941095">
         <mark key="'" line="35" column="38" />
         <mark key="z" line="35" column="37" />
@@ -411,7 +428,6 @@
         <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="39" />
       </file>
-      <file name="C:/dev/golfbet-web/src/views/Home.vue" timestamp="1521574462784" />
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/judgmentsandliens.ts" timestamp="1499955045033">
         <mark key="'" line="23" column="39" />
         <mark key="z" line="23" column="38" />
@@ -460,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="39" filename="C:/dev/vue-todo/src/components/todo.vue" />
       <jump line="21" column="50" filename="C:/dev/vue-todo/src/components/todolist.vue" />
       <jump line="22" column="36" filename="C:/dev/vue-todo/src/components/todolist.vue" />
       <jump line="8" column="46" filename="C:/dev/vue-pack/src/App.vue" />
@@ -560,6 +575,7 @@
       <jump line="5" column="32" filename="C:/dev/golfbet-web/src/main.ts" />
       <jump line="11" column="17" filename="C:/dev/golfbet-web/src/main.ts" />
       <jump line="5" column="30" filename="C:/dev/golfbet-web/src/shims.d.ts" />
+      <jump line="5" column="21" filename="C:/dev/golfbet-web/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -572,34 +588,36 @@
         <text>route</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAvZGlzdC9jc3MvYm9vdHN0cmFwLmNzcycK</text>
+        <text encoding="base64">aW1wb3J0ICdib290c3RyYXAvZGlzdC9jc3MvYm9vc3RyYXAuY3NzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgIkB2dWUvYXBwIgogICAgXQogIH0sCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEJvb3RzdHJhcFZ1ZSBmcm9tICcuL2Jvb3RzdHJhcC12dWUnCg==</text>
+      <register name="2" type="4">
+        <text>&quot;presets&quot;: [
+&quot;@vue/app&quot;
+]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAiQHZ1ZS9hcHAiCiAgICBd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLnVzZSgpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEJvb3RzdHJhcFZ1ZSBmcm9tICcuL2Jvb3RzdHJhcC12dWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHA6IGFwcCwgcm91dGVyOiByb3V0ZXIKfTsK</text>
+        <text encoding="base64">cm91dGVyLnVzZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">dmFyIHJvdXRlciA9IGV4cHJlc3MuUm91dGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
