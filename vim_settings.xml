@@ -45,13 +45,13 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="C:/dev/vue-bulma/src/api.js" timestamp="1520878331108">
+      <file name="C:/dev/vue-bulma/src/api.js" timestamp="1521837069737">
         <mark key="'" line="58" column="56" />
         <mark key="z" line="58" column="55" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="59" column="41" />
-        <mark key="." line="59" column="41" />
-        <mark key="^" line="59" column="41" />
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="C:/dev/vue-bulma/index.html" timestamp="1520618808694">
         <mark key="[" line="4" column="11" />
@@ -155,11 +155,13 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="C:/dev/golfbet-web/src/router.js" timestamp="1521579076112">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/dev/golfbet-web/src/router.js" timestamp="1521836917413">
+        <mark key="'" line="5" column="15" />
+        <mark key="z" line="5" column="14" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="C:/dev/golfbet-web/src/shims.d.ts" timestamp="1521575349404">
         <mark key="'" line="5" column="30" />
@@ -420,6 +422,14 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="C:/dev/golfbet-web/src/api.js" timestamp="1521836958085">
+        <mark key="'" line="4" column="1" />
+        <mark key="z" line="4" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="C:/work/InTitle/trunk/src/InTitle.UI/Scripts/templates/taxes.ts" timestamp="1499964363709">
         <mark key="'" line="31" column="39" />
         <mark key="z" line="31" column="38" />
@@ -495,8 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="C:/dev/vue-pack/webpack.config.js" />
-      <jump line="7" column="15" filename="C:/dev/vue-pack/webpack.config.js" />
       <jump line="43" column="2" filename="C:/dev/vue-pack/webpack.config.js" />
       <jump line="61" column="16" filename="C:/dev/vue-pack/webpack.config.js" />
       <jump line="74" column="16" filename="C:/dev/vue-pack/webpack.config.js" />
@@ -595,13 +603,15 @@
       <jump line="12" column="17" filename="C:/dev/golfbet-web/src/main.js" />
       <jump line="7" column="1" filename="C:/dev/golfbet-web/src/App.vue" />
       <jump line="4" column="26" filename="C:/dev/golfbet-web/src/App.vue" />
+      <jump line="5" column="15" filename="C:/dev/golfbet-web/src/router.js" />
+      <jump line="4" column="1" filename="C:/dev/golfbet-web/src/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>dark</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
