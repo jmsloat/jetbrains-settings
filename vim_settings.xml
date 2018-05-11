@@ -352,7 +352,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1520629014389">
+      <file name="C:/dev/vue-bulma/src/components/Players.vue" timestamp="1526063106883">
         <mark key="'" line="50" column="32" />
         <mark key="z" line="34" column="21" />
         <mark key="[" line="50" column="28" />
@@ -451,7 +451,6 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="C:/dev/golfbet-web/tests/unit/HelloWorld.spec.js" timestamp="1521577721600" />
       <file name="C:/dev/vue-todo/src/components/todo-list.vue" timestamp="1513275915769">
         <mark key="'" line="12" column="27" />
         <mark key="z" line="12" column="25" />
@@ -655,7 +654,7 @@
       <last-offset />
       <last-pattern>home</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
